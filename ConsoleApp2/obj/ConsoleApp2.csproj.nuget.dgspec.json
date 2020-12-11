@@ -1,0 +1,43 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alexandrdanilyev/Documents/Work/Rider/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj": {}
+  },
+  "projects": {
+    "/Users/alexandrdanilyev/Documents/Work/Rider/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexandrdanilyev/Documents/Work/Rider/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj",
+        "projectName": "ConsoleApp2",
+        "projectPath": "/Users/alexandrdanilyev/Documents/Work/Rider/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj",
+        "packagesPath": "/Users/alexandrdanilyev/.nuget/packages/",
+        "outputPath": "/Users/alexandrdanilyev/Documents/Work/Rider/ConsoleApp2/ConsoleApp2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alexandrdanilyev/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "runtimeIdentifierGraphPath": "/Library/Frameworks/Mono.framework/Versions/6.12.0/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

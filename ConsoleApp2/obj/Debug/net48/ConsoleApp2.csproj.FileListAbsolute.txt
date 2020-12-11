@@ -1,0 +1,9 @@
+/Users/alexandrdanilyev/Documents/Work/Rider/ConsoleApp2/ConsoleApp2/bin/Debug/net48/ConsoleApp2.exe.config
+/Users/alexandrdanilyev/Documents/Work/Rider/ConsoleApp2/ConsoleApp2/bin/Debug/net48/ConsoleApp2.exe
+/Users/alexandrdanilyev/Documents/Work/Rider/ConsoleApp2/ConsoleApp2/bin/Debug/net48/ConsoleApp2.pdb
+/Users/alexandrdanilyev/Documents/Work/Rider/ConsoleApp2/ConsoleApp2/obj/Debug/net48/ConsoleApp2.csprojAssemblyReference.cache
+/Users/alexandrdanilyev/Documents/Work/Rider/ConsoleApp2/ConsoleApp2/obj/Debug/net48/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/alexandrdanilyev/Documents/Work/Rider/ConsoleApp2/ConsoleApp2/obj/Debug/net48/ConsoleApp2.AssemblyInfo.cs
+/Users/alexandrdanilyev/Documents/Work/Rider/ConsoleApp2/ConsoleApp2/obj/Debug/net48/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/alexandrdanilyev/Documents/Work/Rider/ConsoleApp2/ConsoleApp2/obj/Debug/net48/ConsoleApp2.exe
+/Users/alexandrdanilyev/Documents/Work/Rider/ConsoleApp2/ConsoleApp2/obj/Debug/net48/ConsoleApp2.pdb
